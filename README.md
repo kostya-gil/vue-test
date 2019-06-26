@@ -1,2 +1,2 @@
 # vue-test
-Sortet Table
+Sorted Table
